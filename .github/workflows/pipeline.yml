@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/mounikag0518/Github/
             azure-pipeline-name: 'mona03-08.artifacts'
-            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
+            azure-devops-token: ${{ https://dev.azure.com/mounikag0518/Github/ }}
