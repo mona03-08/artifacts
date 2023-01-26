@@ -1,0 +1,7 @@
+Env:
+    # Set the below enviornment variables for your environment
+    - CATALINA_HOME: "/usr/local/tomcat"
+    - JAVA_HOME: "/usr/bin/java"
+    # The port number below is only for reference. Set it to the
+    #  port number of your tomcat server.
+    - PORT: "8080"
